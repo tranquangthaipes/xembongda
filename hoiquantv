@@ -34,7 +34,7 @@
             {
               "text": "● Live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#ff0000"
             }
           ],
@@ -91,7 +91,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -148,7 +148,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -164,7 +164,15 @@
                     {
                       "id": "kaytee-cc2b357b4608",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -190,7 +198,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -206,7 +214,15 @@
                     {
                       "id": "kaytee-d51b2e595d06",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -232,7 +248,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -248,7 +264,15 @@
                     {
                       "id": "kaytee-1b35814484b2",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -274,7 +298,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -290,7 +314,15 @@
                     {
                       "id": "kaytee-5638faa42433",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -316,7 +348,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -332,7 +364,15 @@
                     {
                       "id": "kaytee-9b82233aa672",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -358,7 +398,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -374,7 +414,15 @@
                     {
                       "id": "kaytee-bdb9950ea7b8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -400,7 +448,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -416,7 +464,15 @@
                     {
                       "id": "kaytee-f92af95647af",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -442,7 +498,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -458,7 +514,15 @@
                     {
                       "id": "kaytee-e4ad4eb40667",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -484,7 +548,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -500,7 +564,15 @@
                     {
                       "id": "kaytee-e470c69c099b",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -526,7 +598,7 @@
             {
               "text": "⏳ Chưa live",
               "position": "top-left",
-              "color": "#00ffffff",
+              "color": "#ffffff",
               "text_color": "#d54f1a"
             }
           ],
@@ -542,7 +614,15 @@
                     {
                       "id": "kaytee-cc7bde090777",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-dummy",
+                          "name": "Đang cập nhật",
+                          "type": "hls",
+                          "default": true,
+                          "url": "http://127.0.0.1/dummy.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
