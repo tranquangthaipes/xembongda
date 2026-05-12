@@ -8,13 +8,6 @@
     "type": "cover",
     "url": "https://kaytee1012.github.io/hoiquan_logo.png"
   },
-  "notice": {
-    "closeable": true,
-    "icon": "https://kaytee1012.github.io/pngegg.png",
-    "id": "notice",
-    "link": "https://t.me/dqstore1",
-    "text": "Nhóm Tele"
-  },
   "groups": [
     {
       "id": "live",
